@@ -185,8 +185,11 @@ export default function Header() {
     preserveAspectRatio="xMidYMid meet"
     className="text-gray-900 dark:text-white"
   >
-    <g transform="translate(0.000000,388.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+    <g
+  transform="translate(0.000000,388.000000) scale(0.100000,-0.100000)"
+  fill={isDarkMode ? '#fff' : '#000'}
+  stroke="none"
+>
 <path d="M16 3846 c-15 -31 -16 -170 -16 -1510 l0 -1476 1500 0 1500 0 0 1481
 c0 1381 -1 1483 -17 1510 l-17 29 -1467 0 -1467 0 -16 -34z m2944 -1476 l0
 -1470 -1460 0 -1460 0 0 1470 0 1470 1460 0 1460 0 0 -1470z"/>
