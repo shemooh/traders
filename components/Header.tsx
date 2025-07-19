@@ -91,7 +91,7 @@ export default function Header() {
           'Accept': 'application/json'
         },
         body: JSON.stringify({
-          access_key: '6138b91e-9848-49c9-bc70-422424d62dc2', // Replace with your actual access key
+          access_key: 'cdc6daf0-c83c-4343-b1df-dde9334ff6bb', // Replace with your actual access key
           name: quoteFormData.name,
           email: quoteFormData.email,
           company: quoteFormData.company,
@@ -134,7 +134,7 @@ export default function Header() {
           'Accept': 'application/json'
         },
         body: JSON.stringify({
-          access_key: '6138b91e-9848-49c9-bc70-422424d62dc2', // Replace with your actual access key
+          access_key: 'cdc6daf0-c83c-4343-b1df-dde9334ff6bb', // Replace with your actual access key
           name: contactFormData.name,
           email: contactFormData.email,
           message: contactFormData.message,

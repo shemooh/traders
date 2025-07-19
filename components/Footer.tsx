@@ -56,7 +56,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <div className="text-center text-gray-500 dark:text-gray-400 text-sm">
-            © 2025 Tailus UI. All rights reserved
+            © 2025 LSD. All rights reserved
           </div>
         </div>
       </div>

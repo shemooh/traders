@@ -37,7 +37,7 @@ export default function HeroSection() {
           Accept: 'application/json',
         },
         body: JSON.stringify({
-          access_key: '6138b91e-9848-49c9-bc70-422424d62dc2',
+          access_key: 'cdc6daf0-c83c-4343-b1df-dde9334ff6bb',
           name: formData.name,
           email: formData.email,
           phone: formData.phone, // <-- added phone to payload
