@@ -80,7 +80,7 @@ export default function HeroSection() {
                 L&SD
               </h1>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                office supplies, computers, services, and enterprises
+                Office supplies, Computers, Services, and Enterprises
               </p>
             </div>
 
